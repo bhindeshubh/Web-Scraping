@@ -1,0 +1,6 @@
+selenium
+playwright
+bs4
+requests
+pandas
+lxml
